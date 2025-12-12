@@ -7,6 +7,9 @@ Version: 1.0.0
 Author: Nexbil
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+GitHub Plugin URI: https://github.com/Rowel-Maharjan/notify-plugin
+GitHub Branch: main
 */
 
 if (!defined('ABSPATH')) exit;
